@@ -69,7 +69,7 @@ Now, in your terminal in the directory of this project, type:
 `rake hello`
 
 You should see the following outputted to your terminal:
-
+clea
 ```bash
 hello from Rake!
 ```
